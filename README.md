@@ -1,4 +1,4 @@
-<h1  align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi!, I'm <a href="https://trantdai.github.io/">Dai Tran</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1  align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi!, I'm <a href="https://trantdai.github.io/">Dai Tran, PhD</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 <h2 align="center">Agile Continuous Learning Security as Code Enabler</h2>
 
@@ -10,7 +10,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
 
 ## My Goal
 
-Helping organizations achieve their security as code goals
+Helping organizations achieve their security as code goals!
 
 ### My Own Quote
 
