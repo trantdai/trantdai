@@ -16,7 +16,14 @@ Helping organizations achieve their security as code goals!
 
 ***"If you want to go fast, go without writing. If you want to go far, go with blogging."***
 
-### Find Me At
+### Like to Connect?
+
+<p align="center">
+<a href="https://www.linkedin.com/in/trantdai"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-linkedin-48.png?raw=true"></a>&nbsp;
+<a href="https://trantdai.github.io"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-website-64.png?raw=true"></a>&nbsp;
+<a href="https://trantdai.github.io/blog"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-blogger-48.png?raw=true"></a>&nbsp;
+<a href="spmkeeper@gmail.com"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-gmail-logo-48.png?raw=true"></a>&nbsp;
+</p>
 
 <!-- https://github.com/tarunaroraonline -->
 
