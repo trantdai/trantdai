@@ -19,10 +19,10 @@ Helping organizations achieve their security as code goals!
 ### Like to Connect?
 
 <p align="center">
-<a href="https://www.linkedin.com/in/trantdai"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-linkedin-48.png?raw=true"></a>&nbsp;
-<a href="https://trantdai.github.io"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-website-64.png?raw=true"></a>&nbsp;
-<a href="https://trantdai.github.io/blog"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-blogger-48.png?raw=true"></a>&nbsp;
-<a href="spmkeeper@gmail.com"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icon/icons8-gmail-logo-48.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/trantdai"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-linkedin-48.png?raw=true"></a>&nbsp;
+<a href="https://trantdai.github.io"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-website-64.png?raw=true"></a>&nbsp;
+<a href="https://trantdai.github.io/blog"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-blogger-48.png?raw=true"></a>&nbsp;
+<a href="spmkeeper@gmail.com"><img height="30" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-gmail-logo-48.png?raw=true"></a>&nbsp;
 </p>
 
 <!-- https://github.com/tarunaroraonline -->
@@ -45,14 +45,14 @@ Helping organizations achieve their security as code goals!
 
 ### Like My Work?
 
-<p><a href="https://trantdai.github.io/project"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="projects" /></a></p><br><br>
+<p align="center"><a href="https://trantdai.github.io/project"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="projects" /></a></p><br><br>
 
 <br />
 <hr />
 
 ## Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=trantdai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="trantdai" /> </p>
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=trantdai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="trantdai" /> </p>
 <!--
 **trantdai/trantdai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
