@@ -27,8 +27,6 @@ Helping organizations achieve their security as code goals!
 😲 Like it or not, I have to <i>commit</i> at work daily as a <i>Git</i> user!
 <br>
 😲 Even thought software development was one of my undergruadate majors but I did not fall in love with it until I got to see the DevOps beauty.
-<br>
-😲 My closest friend my until I completed my bachelor's degree was a radio.
 
 ### ❤️ Favourite Technologies
 
