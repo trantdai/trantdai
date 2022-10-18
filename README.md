@@ -45,10 +45,7 @@ Helping organizations achieve their security as code goals!
 
 ### Like My Work?
 
-<p align="center"><a href="https://trantdai.github.io/project"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="projects" /></a></p><br><br>
-
-<br />
-<hr />
+<p align="center"><a href="https://trantdai.github.io/project"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="projects" /></a></p><br>
 
 ## Visitor Count
 <p align="center">
