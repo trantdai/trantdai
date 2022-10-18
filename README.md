@@ -71,7 +71,7 @@ Helping organizations achieve their security as code goals!
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/iicons8-docker-48.png" width="48" height="48" alt="Docker" />
+        <img src="./icons/icons8-docker-48.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
