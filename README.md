@@ -54,7 +54,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-api-64.png" width="48" height="48" alt="API" />
+        <img src="./icons/restful_api_icon.png" width="48" height="48" alt="API" />
       </a>
       <br>API
     </td>
@@ -78,7 +78,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-checkmark-64.png" width="48" height="48" alt="Checkmarx" />
+        <img src="./icons/checkmarx_logo_icon.png" width="48" height="48" alt="Checkmarx" />
       </a>
       <br>Checkmarx
     </td>
@@ -90,7 +90,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-vault-64.png" width="48" height="48" alt="HashiCorp Vault" />
+        <img src="./icons/hashicorp_vault_logo.png" width="48" height="48" alt="HashiCorp Vault" />
       </a>
       <br>HC Vault
     </td>
