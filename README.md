@@ -19,7 +19,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
 ### 🤝 Like to Connect?
 
 <p align="center">
-<a href="https://www.linkedin.com/in/trantdai"><img height="49" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-linkedin-48.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/trantdai"><img height="48" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-linkedin-48.png?raw=true"></a>&nbsp;
 <a href="https://trantdai.github.io"><img height="48" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-website-64.png?raw=true"></a>&nbsp;
 <a href="https://trantdai.github.io/blog"><img height="48" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-blogger-48.png?raw=true"></a>&nbsp;
 <a href="spmkeeper@gmail.com"><img height="48" src="https://github.com/trantdai/trantdai/blob/main/icons/icons8-gmail-logo-48.png?raw=true"></a>&nbsp;
