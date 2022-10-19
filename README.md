@@ -196,51 +196,51 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+        <img src="./icons/icons8-placeholder-62.png" width="48" height="48" alt="Holder" />
       </a>
-      <br>Placeholder
+      <br>Holder
     </td>
 </tr>
 </table>
