@@ -8,7 +8,7 @@ Instrumental in driving improvements in processes, operational efficiency/agilit
 
 Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Security automation, security technology REST APIs, Infrastructure as Code (Terraform/Terratest), Python secure software development, Linux, Bash scripting, Ansible/Tower, Security as Code, Docker, CI/CD and DevSecOps tools/methodologies.
 
-## 🎯 My Goal
+### 🎯 My Goal
 
 **Helping organizations achieve their security as code goals!**
 
