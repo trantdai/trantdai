@@ -10,7 +10,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
 
 ## 🎯 My Goal
 
-Helping organizations achieve their security as code goals!
+**Helping organizations achieve their security as code goals!**
 
 ### 🔊 My Own Quote
 
@@ -111,6 +111,8 @@ Helping organizations achieve their security as code goals!
       </a>
       <br>HC Vault
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#trantdai-tech">
         <img src="./icons/icons8-linux.gif" width="48" height="48" alt="Linux" />
