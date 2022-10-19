@@ -90,7 +90,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-security-shield-green-100.png" width="48" height="48" alt="HashiCorp Vault" />
+        <img src="./icons/icons8-vault-64.png" width="48" height="48" alt="HashiCorp Vault" />
       </a>
       <br>HC Vault
     </td>
@@ -173,6 +173,74 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
         <img src="./icons/icons8-firewall-48.png" width="48" height="48" alt="Palo Alto" />
       </a>
       <br>Palo Alto
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/akamai-ar21.svg" width="48" height="48" alt="Akamai" />
+      </a>
+      <br>Akamai
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-splunk-48.png" width="48" height="48" alt="Splunk" />
+      </a>
+      <br>Splunk
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/cisco_logo_icon-48.png" width="48" height="48" alt="Cisco" />
+      </a>
+      <br>Cisco
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icon-icons-placeholder-48.png" width="48" height="48" alt="Placeholder" />
+      </a>
+      <br>Placeholder
     </td>
 </tr>
 </table>
