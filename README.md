@@ -100,6 +100,12 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
       </a>
       <br>Markdown
     </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-jekyll-web-48.png" width="48" height="48" alt="Jekyll" />
+      </a>
+      <br>Jekyll
+    </td>
     </tr>
     <tr>
     <td align="center" width="96">
@@ -155,6 +161,12 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
         <img src="./icons/jinja_icon-icons-48.png" width="48" height="48" alt="Jinja2" />
       </a>
       <br>Jinja2
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-golang-48.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
