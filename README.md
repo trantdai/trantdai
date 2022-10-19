@@ -94,6 +94,12 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
       </a>
       <br>HC Vault
     </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-markdown-50.png" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
     </tr>
     <tr>
     <td align="center" width="96">
@@ -143,12 +149,6 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
         <img src="./icons/icons8-windows-10-48.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
-    </td>
-    <td align="center" width="96">
-      <a href="#trantdai-tech">
-        <img src="./icons/icons8-markdown-50.png" width="48" height="48" alt="Markdown" />
-      </a>
-      <br>Markdown
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
