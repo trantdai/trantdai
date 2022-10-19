@@ -37,6 +37,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
 
 ### ❤️ Favourite Technologies
 
+> Tools, languages, and technologies that I have gained some experience in the project delivery context and like to work with.
 <table>
 <tr>
     <td align="center" width="96">
