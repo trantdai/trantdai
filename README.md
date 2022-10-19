@@ -84,24 +84,6 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-amazon-web-services-48.png" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#trantdai-tech">
-        <img src="./icons/icons8-azure-48.png" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#trantdai-tech">
-        <img src="./icons/icons8-security-shield-green-100.png" width="48" height="48" alt="CloudSec" />
-      </a>
-      <br>CloudSec
-    </td>
-    <td align="center" width="96">
-      <a href="#trantdai-tech">
         <img src="./icons/icons8-jenkins-48.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
@@ -122,9 +104,21 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-console-50.png" width="48" height="48" alt="Bash Scripting" />
+        <img src="./icons/icons8-linux-terminal-48.png" width="48" height="48" alt="Bash Scripting" />
       </a>
       <br>Bash Scripting
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-amazon-web-services-48.png" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-security-shield-green-100.png" width="48" height="48" alt="CloudSec" />
+      </a>
+      <br>CloudSec
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
@@ -134,21 +128,39 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
+        <img src="./icons/icons8-ansible-48.png" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-azure-48.png" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
         <img src="./icons/icons8-windows-10-48.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-firewall-48.png" width="48" height="48" alt="Palo Alto" />
+        <img src="./icons/icons8-markdown-50.png" width="48" height="48" alt="Markdown" />
       </a>
-      <br>Palo Alto
+      <br>Markdown
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-ansible-48.png" width="48" height="48" alt="Ansible" />
+        <img src="./icons/jinja_icon-icons-48.png" width="48" height="48" alt="Jinja2" />
       </a>
-      <br>Ansible
+      <br>Jinja2
+    </td>
+    <td align="center" width="96">
+      <a href="#trantdai-tech">
+        <img src="./icons/icons8-firewall-48.png" width="48" height="48" alt="Palo Alto" />
+      </a>
+      <br>Palo Alto
     </td>
 </tr>
 </table>
