@@ -170,7 +170,7 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
     </td>
     <td align="center" width="96">
       <a href="#trantdai-tech">
-        <img src="./icons/icons8-firewall-48.png" width="48" height="48" alt="Palo Alto" />
+        <img src="./icons/pan_logo_icon.png" width="48" height="48" alt="Palo Alto" />
       </a>
       <br>Palo Alto
     </td>
