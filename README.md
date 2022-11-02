@@ -249,8 +249,9 @@ Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Secur
 
 ### ✍️ Blog Posts
 
-[Great Daily Tools for Technical Writers](https://trantdai.github.io/blog/what-is-jekyll-how-to-use-it)<br>
-[What is Jekyll? How to use it?](https://trantdai.github.io/blog/what-is-jekyll-how-to-use-it)
+[TeamCity Tips and Tricks](https://trantdai.github.io/blog/teamcity-tips-and-tricks)<br>
+[End of Life New York Cisco Firewall Migration to Palo Alto Firewall](https://trantdai.github.io/blog/End-of-Life-New-York-Cisco-Firewall-Migration-to-Palo-Alto-Firewall)<br>
+[Python SBOM and Supply Chain Vulnerability Reporting](https://trantdai.github.io/blog/python-sbom-and-supply-chain-vulnerability-reporting)
 
 ### 👍 Like My Work?
 
